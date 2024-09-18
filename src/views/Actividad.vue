@@ -15,10 +15,11 @@ export default {
   components: { Actividad },
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del componente formativo',
+      tema:
+        'Aspectos fundamentales sobre el turismo sostenible y las leyes que lo rigen',
       titulo: 'Cuestionario',
       introduccion:
-        'Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo. Lea cada enunciado y luego seleccione la respuesta correcta según corresponda.',
+        'Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: false,
       preguntas: [
         {

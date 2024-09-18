@@ -1,19 +1,112 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: opacity1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 23%
+    right: 86%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: opacity1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
-@keyframes float1
+    top: 4%
+    right: 49%
+  &-3
+    animation: opacity1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 11%
+@keyframes opacity1
   0%
-    transform: translateY(20px)
-
+    opacity: 0.5  
   100%
-    transform: translateY(0px)
+    opacity: 1
+
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/mini-portada.jpg") !important
+  background-repeat: no-repeat
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem  
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario  
+
+
+.bgc-1
+  background-image: url("../assets/curso/temas/t1/bgc1.png")
+  background-position: center
+  background-size: 100% 
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  border-radius: 30px
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.bg1
+  background-color: #EAEFCE
+.bg2
+  background-color: #C7EFF5 !important
+.bg3
+  background-color: #FCE4D3
+.bg4
+  background-color: #D3DF9C
+.bg5
+  background-color: #FDFCEF
+
+.tit-tercer
+  position: relative
+  img
+    z-index: 5
+    position: relative
+  .texto
+    position: relative  
+    background-color: #F9F0B1
+    margin-left: -10px
+    z-index: 2
+    h3
+      padding: 6px 0px 6px 25px
+    &:before 
+      position: absolute
+      content: ''
+      background-color: #F9F0B1
+      right: -4px
+      transform: translate(35%,-50%) rotate(45deg)
+      display: block
+      top: 50%
+      width: 26px
+      height: 26px
+      z-index: -1
+.text-dest
+  color: #F37E29
+.br-l
+  border-top-left-radius: 20px
+  border-bottom-left-radius: 20px
+
+.linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  border-color: #FFA700
+  background-color: #FFA700
+
+.tarjeta-audio.color-primario .audio__btn
+  background-color: #F37E29
+.tarjeta-audio.color-primario
+  border: 3px solid #94B10B
+
+.acord1  
+  .acordion__accion__btn--a
+    background-color: #FFA700
+    i
+      color: #FFF !important
+  .acordion__activo
+    background-color: #DAEEF9
+
+.tabs-c__header
+  margin-bottom: 0px     
