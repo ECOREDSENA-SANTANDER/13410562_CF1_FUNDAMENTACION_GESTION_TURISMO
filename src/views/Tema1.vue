@@ -214,8 +214,45 @@
           .col-md-7
             h4 Dimensión sociocultural
             p Relaciona la interacción entre turistas y comunidades receptoras, destacando la importancia de la sostenibilidad y el respeto por las culturas locales.
-
-
+      .bg5.py-4.py-md-5(titulo="Dimensión económica")
+        .row.justify-content-center
+          .col-md-4.mb-4.mb-md-0
+            img(src='@/assets/curso/temas/t1/tab2.png', alt='')
+          .col-md-7
+            h4 Dimensión económica
+            p Implica los sistemas productivos que, bajo criterios de sostenibilidad, buscan revitalizar la economía local y utilizar el turismo como herramienta para erradicar la pobreza y promover el desarrollo local.
+      .bg5.py-4.py-md-5(titulo="Dimensión ambiental")
+        .row.justify-content-center
+          .col-md-4.mb-4.mb-md-0
+            img(src='@/assets/curso/temas/t1/tab3.png', alt='')
+          .col-md-7
+            h4 Dimensión ambiental
+            p Enfatiza una relación responsable y sostenible con el entorno natural, minimizando impactos negativos y promoviendo la conservación del patrimonio natural.
+      .bg5.py-4.py-md-5(titulo="Dimensión política")
+        .row.justify-content-center
+          .col-md-4.mb-4.mb-md-0
+            img(src='@/assets/curso/temas/t1/tab4.png', alt='')
+          .col-md-7
+            h4 Dimensión política
+            p ISe refiere a las leyes, normas y políticas que regulan la actividad turística, asegurando que contribuya al desarrollo sostenible de los territorios. 
+      .bg5.py-4.py-md-5(titulo="Dimensión tecnológica")
+        .row.justify-content-center
+          .col-md-4.mb-4.mb-md-0
+            img(src='@/assets/curso/temas/t1/tab5.png', alt='')
+          .col-md-7
+            h4 Dimensión tecnológica
+            p Incluye todas las tecnologías que apoyan y afectan el desarrollo de la actividad turística, especialmente las Tecnologías de la Información y la Comunicación (TIC). 
+    
+    .row.justify-content-center.mb-5
+      .col-lg-7.mb-5(data-aos="fade") 
+        .titulo-sexto.color-primario
+          h5 Figura 3. 
+          span Dimensiones del producto turístico 
+        figure
+          img.mb-2(src='@/assets/curso/temas/t1/figura3.svg', alt='')  
+          figcaption Fuente: SENA
+      .col-lg-5(data-aos="fade-down")
+        img.mb-2(src='@/assets/curso/temas/t1/img5.png', alt='')  
 
 
 

@@ -36,12 +36,12 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Turismo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Sistema turístico',
             hash: 't_1_1',
           },
         ],
@@ -50,14 +50,51 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Superestructuras',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Superestructuras turísticas',
+            hash: 't_2_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Destino turístico',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Características del destino turístico',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Agentes del destino',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Política y normatividad turística',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Política turística',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Legislación y normatividad colombiana en turismo',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -121,12 +158,83 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Ciclo del Producto ',
+      significado:
+        'Etapas de evolución de un producto, desde su lanzamiento hasta el cese de su comercialización.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Demanda Turística',
+      significado:
+        'Total, de turistas que consumen productos y servicios en un destino.',
+    },
+    {
+      termino: 'Destino',
+      significado:
+        'Lugar al que se dirigen los turistas, equipado con servicios e instalaciones que cubren sus necesidades.',
+    },
+    {
+      termino: 'Espacio Turístico',
+      significado: 'Área geográfica donde ocurre la experiencia turística.',
+    },
+    {
+      termino: 'Imagen',
+      significado:
+        'Percepción mental de una marca, influenciada por la personalidad del consumidor.',
+    },
+    {
+      termino: 'Infraestructura Turística',
+      significado:
+        'Conjunto de bienes y servicios disponibles en un destino para satisfacer al turista.',
+    },
+    {
+      termino: 'Marca',
+      significado:
+        'Identidad asignada a un producto o servicio, que lo diferencia de la competencia y garantiza su calidad.',
+    },
+    {
+      termino: 'Oferta Turística',
+      significado:
+        'Productos, servicios y organizaciones disponibles para los turistas.',
+    },
+    {
+      termino: 'Planta Turística',
+      significado:
+        'Instalaciones y equipos que cubren las necesidades de transporte, alojamiento, alimentación y recreación del turista.',
+    },
+    {
+      termino: 'Política Turística',
+      significado:
+        'Conjunto de normas y acciones del Estado para regular, fomentar y proteger el turismo, en colaboración con el sector privado.',
+    },
+    {
+      termino: 'Prestador de Servicios Turísticos',
+      significado:
+        'Persona o empresa registrada que ofrece, media o contrata servicios turísticos en Colombia.',
+    },
+    {
+      termino: 'Producto Turístico',
+      significado:
+        'Conjunto de elementos que generan satisfacción al turista, consumidos en diferentes etapas.',
+    },
+    {
+      termino: 'Sistema Turístico',
+      significado:
+        'Conjunto de acciones y recursos que interactúan para organizar la actividad turística.',
+    },
+    {
+      termino: 'Superestructura Turística',
+      significado:
+        'Organismos públicos y privados que regulan y optimizan el sistema turístico.',
+    },
+    {
+      termino: 'Territorio',
+      significado:
+        'Espacio físico y social donde se manifiestan la identidad y la oferta turística.',
+    },
+    {
+      termino: 'Turismo',
+      significado:
+        'Actividades realizadas por personas en sus viajes y estancias fuera de su entorno habitual, con fines de ocio o negocios, por menos de un año.',
     },
   ],
   referencias: [
@@ -145,9 +253,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -155,9 +263,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Sandra Paola Morales Paez',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -170,9 +278,9 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Andrea Paola Botello De la Rosa',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Nombre',
