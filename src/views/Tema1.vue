@@ -249,9 +249,9 @@
           h5 Figura 3. 
           span Dimensiones del producto turístico 
         figure
-          img.mb-2(src='@/assets/curso/temas/t1/figura3.svg', alt='')  
+          img.mb-3(src='@/assets/curso/temas/t1/figura3.svg', alt='')  
           figcaption Fuente: SENA
-      .col-lg-5(data-aos="fade-down")
+      .col-lg-5.d-none.d-lg-block(data-aos="fade-down")
         img.mb-2(src='@/assets/curso/temas/t1/img5.png', alt='')  
 
 
