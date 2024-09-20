@@ -13,14 +13,15 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 El enfoque principal reside en promover el turismo receptivo sobre el emisor, dado que este impulsa de manera más directa el crecimiento de las empresas turísticas nacionales y optimiza la utilización de los recursos regionales. La regulación y el desarrollo de políticas en el sector turístico establecen un vínculo entre la gestión pública y la implementación de medidas con repercusiones económicas, tales como la imposición de gravámenes o la asignación de subsidios, orientadas a estimular el crecimiento sostenible y la competitividad del sector.
     
-    p.mb-4 El Instituto Interamericano de Turismo define el destino turístico como un área donde el viajero espera encontrar actividades, atractivos y servicios que le brinden una experiencia inolvidable. Eduardo Pantano (2014) añade que un destino debe tener atractivos turísticos, capacidad para ofrecer servicios y una infraestructura adecuada, además de una gestión estatal para organizar la oferta y preservar los recursos. El destino incluye productos, servicios y atractivos en un radio de influencia de un día, y su competitividad depende de su imagen y percepción en el mercado.
+    p El Instituto Interamericano de Turismo define el destino turístico como un área donde el viajero espera encontrar actividades, atractivos y servicios que le brinden una experiencia inolvidable. Eduardo Pantano (2014) añade que un destino debe tener atractivos turísticos, capacidad para ofrecer servicios y una infraestructura adecuada, además de una gestión estatal para organizar la oferta y preservar los recursos. El destino incluye productos, servicios y atractivos en un radio de influencia de un día, y su competitividad depende de su imagen y percepción en el mercado.
+
 
     Separador
     #t_4_1.titulo-segundo.color-primario(data-aos='fade-right')
       h2 4.1  Política turística 
     
-    .row.mb-5
-      .col-lg-5
+    .row.justify-content-center.mb-4
+      .col-lg-5.col-md-8.col-11.mb-3.mb-lg-0
         img(src='@/assets/curso/temas/t4/img2.png', alt='')
       .col-lg-7 
         p.mb-4 La política se define como el
@@ -32,13 +33,14 @@
     
     p.mb-4 La política turística es, en esencia, una micropolítica especializada que la administración pública emplea para establecer directrices relacionadas con la planificación, promoción, ordenamiento y regulación de la actividad turística. Se integra dentro de las políticas sectoriales de la política económica, considerando que el turismo es un sector clave para el desarrollo económico.
 
-    .row.mb-5(data-aos='fade')
+    .row(data-aos='fade')
       .col-lg-7.pe-lg-0
         .br-l.bg8.p-4.h-100.d-flex.align-items-center.mont1
           p.mb-0 Los objetivos de la política turística varían según la región, el país y las características de los productos turísticos disponibles, así como las motivaciones de las autoridades responsables de su formulación. Sin embargo, hay consenso en cuanto a los objetivos fundamentales de toda política turística estatal, que incluyen: fomentar el crecimiento de la renta nacional, generar empleo, aumentar los ingresos por divisas y promover el desarrollo y el equilibrio regional. Estos objetivos, a su vez, contribuyen a un objetivo macroeconómico principal: mejorar la calidad de vida y el bienestar de los ciudadanos residentes en las áreas donde se implementa la política turística.
       .col-lg-5.ps-lg-0.d-none.d-lg-block
         img(src='@/assets/curso/temas/t4/img3.png', alt='')  
     
+
     Separador
     #t_4_2.titulo-segundo.color-primario(data-aos='fade-right')
       h2 4.2  Legislación y normatividad colombiana en turismo
@@ -49,7 +51,7 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-end
 
-          .col-lg-3
+          .col-lg-3.col-md-6.col-10.mb-3.mb-lg-0
             img(src='@/assets/curso/temas/t4/img4.png', alt='')
           .col-lg-8  
             SlyderF(columnas="col-md-6")

@@ -27,7 +27,7 @@
               img(src='@/assets/curso/temas/t3/img2.png', alt='')
     
     .row.align-items-center.justify-content-center.mb-4
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.col-md-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/img3.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p Otra forma de concebir el destino turístico es como la combinación de diversos productos turísticos ofrecidos por una región geográfica, los cuales se complementan y compiten simultáneamente. Estos productos comparten una visión integrada, una gestión común y una imagen de destino bajo una marca conjunta, aunque cada uno mantiene elementos diferenciadores y se dirige a segmentos de demanda específicos.
@@ -153,7 +153,7 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-end
 
-          .col-lg-3
+          .col-lg-3.col-md-6.col-10.mb-3.mb-lg-0
             img(src='@/assets/curso/temas/t3/img4.png', alt='')
           .col-lg-8  
             SlyderF(columnas="col-md-6")
@@ -185,8 +185,8 @@
       .col-auto.ps-0.texto
         h3.mb-0 Ciclo de vida de un destino
 
-    .row.align-items-center.mb-4
-      .col-lg-5(data-aos="fade-right")
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-5.col-md-8.col-11.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/img6.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p Muchos lugares, regiones o municipios que reciben turistas atraviesan un ciclo de desarrollo similar al de las especies vivas, pasando por distintas etapas desde su nacimiento hasta su consolidación; durante este proceso, los destinos turísticos experimentan modificaciones y transformaciones, de manera comparable a lo que sucede con la moda, los artistas y otros productos en general. 

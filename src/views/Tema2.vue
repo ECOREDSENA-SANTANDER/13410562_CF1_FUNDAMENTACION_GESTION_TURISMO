@@ -52,8 +52,8 @@
         h3.mb-0 Superestructura en el sector público 
     
     .row.mb-5
-      .col-lg-5
-        img.pe-0(src='@/assets/curso/temas/t2/img3.svg', alt='') 
+      .col-lg-5.mb-3.mb-lg-0
+        img(src='@/assets/curso/temas/t2/img3.svg', alt='') 
       .col-lg-7
         p Dentro del ámbito turístico está compuesta por una serie de organismos gubernamentales y entidades públicas cuya función principal es regular, supervisar y fomentar el desarrollo de la actividad turística. Estos organismos incluyen ministerios de turismo, agencias regulatorias, oficinas de promoción turística y autoridades locales que establecen normativas, políticas y estrategias para garantizar un crecimiento sostenible del turismo. 
         p Además, se encargan de asegurar la calidad de los servicios, promover la inversión en infraestructura turística, proteger los recursos naturales y culturales, así como fomentar la cooperación entre el sector público y privado.
@@ -121,8 +121,8 @@
       .col-auto.ps-0.texto
         h3.mb-0 Superestructura sociedad civil
 
-    .row.align-items-center.mb-5
-      .col-lg-5(data-aos="fade-right")
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-5.col-md-8.col-11.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/img7.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p Está formada por organizaciones no gubernamentales, asociaciones comunitarias, colectivos culturales, y grupos de interés que participan activamente en la gestión, promoción y desarrollo sostenible del turismo; por tanto, 
