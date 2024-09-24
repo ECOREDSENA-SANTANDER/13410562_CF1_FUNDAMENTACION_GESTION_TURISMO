@@ -40,7 +40,7 @@
                   h5 Figura 4. 
                   span Superestructura turística
               figure
-                img(src='@/assets/curso/temas/t2/fig4.png', alt='')
+                img(src='@/assets/curso/temas/t2/fig4.png', alt='La imagen presenta un diagrama en el que se destacan los "Responsables de la Superestructura Turística" como elemento central. Alrededor de este núcleo, se encuentran cinco funciones clave: planeación y ordenación, organización y disposición, coordinación y dirección, promoción y mercadeo, y control y evaluación. Cada una de estas áreas contribuye al funcionamiento y gestión eficiente de la superestructura turística, destacando la importancia de la planificación, la organización y la evaluación en el desarrollo de un destino turístico.')
     
           .col-12 
             p En otros contextos, también se le denomina “aparato institucional del turismo”, y está conformado por organizaciones públicas y privadas que gestionan y promueven la oferta de servicios turísticos en distintos mercados. Este sistema involucra organismos de ámbito nacional y territorial (departamentales, distritales y municipales) y abarca gremios, asociaciones de promoción, instituciones educativas y otras organizaciones necesarias para el correcto funcionamiento del turismo.
@@ -67,7 +67,7 @@
               h5 Figura 5. 
               span Superestructura - sector público                 
             figure
-              img(src='@/assets/curso/temas/t2/fig5.svg', alt='')
+              img(src='@/assets/curso/temas/t2/fig5.svg', alt='La imagen ilustra la estructura del "Sector Oficial" en el ámbito turístico, dividido en tres componentes principales. El primero es el "Ministerio, viceministerio o secretaría", encargado de la gestión a nivel nacional. El segundo corresponde a las "Entidades territoriales", que gestionan el turismo a nivel regional o local. Finalmente, las "Entidades adscritas y vinculadas" complementan la estructura, contribuyendo con funciones específicas dentro del sistema oficial de turismo.')
           .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
             img(src='@/assets/curso/temas/t2/img4.png', alt='')
     
@@ -92,7 +92,7 @@
               h5 Figura 6. 
               span Superestructura - sector privado                
             figure
-              img(src='@/assets/curso/temas/t2/fig6.svg', alt='')
+              img(src='@/assets/curso/temas/t2/fig6.svg', alt='La imagen presenta una estructura organizativa del sector privado, dividida en tres componentes principales. Estos son: "Gremios", "Prestadores de servicios" y "Redes y/o formas asociativas". Cada uno de estos elementos está alineado bajo la categoría general de "Sector privado".')
           .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
             img(src='@/assets/curso/temas/t2/img6.png', alt='')
     
@@ -113,7 +113,7 @@
               h5 Figura 7. 
               span Superestructura - sector mixto               
             figure
-              img(src='@/assets/curso/temas/t2/fig7.svg', alt='')
+              img(src='@/assets/curso/temas/t2/fig7.svg', alt='La imagen presenta un esquema que organiza el "Sector mixto" en cuatro componentes principales: el Consejo superior de turismo, el Comité de capacitación turística, el Comité de playas y el Consejo de seguridad turística. Estos órganos representan la colaboración entre el sector público y privado, cada uno con responsabilidades específicas para garantizar el desarrollo, la formación, la seguridad y la regulación de áreas clave dentro del sector turístico.')
 
     .tit-tercer.row.align-items-center.mb-4(data-aos="fade-left")
       .col-auto.pe-0
@@ -126,7 +126,7 @@
         img(src='@/assets/curso/temas/t2/img7.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p Está formada por organizaciones no gubernamentales, asociaciones comunitarias, colectivos culturales, y grupos de interés que participan activamente en la gestión, promoción y desarrollo sostenible del turismo; por tanto, 
-          span.text-dest2.fw-bold estas organizaciones suelen representar a la comunidad local, protegiendo sus intereses y garantizando que la actividad turística se desarrolle de manera responsable. 
+          span.fw-bold estas organizaciones suelen representar a la comunidad local, protegiendo sus intereses y garantizando que la actividad turística se desarrolle de manera responsable. 
           | Su papel incluye la defensa de los derechos de los trabajadores del sector, la preservación del patrimonio cultural y natural, junto con la promoción del turismo responsable y comunitario. Sumado a esto colabora con el sector público y privado para fomentar un turismo más inclusivo y equitativo, asegurando que los beneficios se distribuyan de manera justa y que se minimicen los impactos negativos sobre el medio ambiente y las comunidades locales.
     
     .row.bgc-2.align-items-center.p-4.py-5.mb-5(data-aos="fade-down")
@@ -138,7 +138,7 @@
               h5 Figura 8. 
               span Superestructura sociedad civil              
             figure
-              img(src='@/assets/curso/temas/t2/fig8.png', alt='')
+              img(src='@/assets/curso/temas/t2/fig8.png', alt='La imagen ilustra el papel de la "Sociedad civil" en el ámbito turístico, destacando cuatro responsabilidades clave. Estas incluyen acoger al visitante, actuar como defensor del patrimonio, ser depositaria de los valores culturales y sociales, y participar y vincularse en proyectos productivos. Estos roles reflejan la importancia de la sociedad civil en la preservación del patrimonio, el fomento del desarrollo local y la interacción con los turistas, promoviendo una experiencia culturalmente enriquecedora y sostenible.')
 
 
 

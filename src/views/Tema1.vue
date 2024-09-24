@@ -125,7 +125,7 @@
             h5 Figura 1. 
             span Elementos en la gestión del turismo
           figure
-            img.mb-2(src='@/assets/curso/temas/t1/fig1.svg', alt='')  
+            img.mb-2(src='@/assets/curso/temas/t1/fig1.svg', alt='La imagen presenta un gráfico en forma de hexágono que organiza los elementos clave en la gestión del turismo. Cada lado del hexágono está segmentado en bloques que representan conceptos importantes, tales como el sistema turístico, la superestructura, la política turística, el marco normativo y los agentes involucrados. En el centro del hexágono, se destacan los "Elementos Claves en la Gestión del Turismo", lo que indica la interconexión y la relación de cada componente para una gestión efectiva del sector turístico.')  
           figcaption Fuente: SENA
 
     .row.justify-content-center.align-items-center.mb-5
@@ -144,7 +144,7 @@
           span Funcionamiento de turismo
       .col-lg-8  
         figure
-          img.mb-2(src='@/assets/curso/temas/t1/fig2.svg', alt='')  
+          img.mb-2(src='@/assets/curso/temas/t1/fig2.svg', alt='La imagen presenta una pirámide que organiza los componentes fundamentales del turismo. En la cúspide se encuentra el "Producto Turístico", compuesto por atractivos naturales y culturales, alojamiento, alimentación, servicios complementarios y transporte. La base de la pirámide está formada por la "Superestructura Turística", seguida de la "Infraestructura" y la "Comunidad Anfitriona o Receptora". A los lados del esquema se resaltan dos factores clave: la oferta turística, vinculada a los atractivos del destino, y la demanda turística, relacionada con los consumidores y visitantes. Todo esto está enmarcado dentro de un espacio geográfico determinado.')  
         figcaption Fuente: SENA
 
     .tit-tercer.row.align-items-center.mb-4(data-aos="fade-left")
@@ -249,7 +249,7 @@
           h5 Figura 3. 
           span Dimensiones del producto turístico 
         figure
-          img.mb-3(src='@/assets/curso/temas/t1/figura3.svg', alt='')  
+          img.mb-3(src='@/assets/curso/temas/t1/figura3.svg', alt='La imagen presenta un esquema circular que destaca al "Producto Turístico" como el elemento central, rodeado por la oferta, la demanda y la organización social e institucional. Estos componentes se encuentran dentro de un marco general de sostenibilidad. Alrededor del esquema, se identifican diversas dimensiones clave para la sostenibilidad del turismo: la dimensión ambiental, la dimensión tecnológica, la dimensión socio-cultural, la dimensión económica y la dimensión política, cada una de las cuales contribuye a la gestión integral del turismo.')  
           figcaption Fuente: SENA
       .col-lg-5.d-none.d-lg-block(data-aos="fade-down")
         img.mb-2(src='@/assets/curso/temas/t1/img5.png', alt='')  

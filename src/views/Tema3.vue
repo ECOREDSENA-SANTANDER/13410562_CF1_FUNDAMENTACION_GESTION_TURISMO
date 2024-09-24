@@ -24,7 +24,7 @@
               h5 Figura 9. 
               span Diferentes destinos turísticos            
             figure
-              img(src='@/assets/curso/temas/t3/img2.png', alt='')
+              img(src='@/assets/curso/temas/t3/img2.png', alt='La imagen representa a una mujer turista con un mapa en las manos y una maleta junto a ella, vestida para un clima cálido. A su lado, aparece un mapa colorido de Colombia con diversas ilustraciones que representan los atractivos turísticos del país, como fauna, flora, monumentos históricos y paisajes naturales. El diseño resalta la diversidad cultural y geográfica del país, sugiriendo un enfoque en el turismo y la exploración de sus destinos más emblemáticos.')
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-5.col-md-8.mb-3.mb-lg-0(data-aos="fade-right")
@@ -37,14 +37,17 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center
     
+          .tit-tercer.row.align-items-center.mb-4(data-aos="fade-left")
+            .col-auto.pe-0
+              img.pe-0(src='@/assets/curso/temas/t1/tit-tercer.svg', alt='') 
+            .col-auto.ps-0.texto
+              h3.mb-0 Destinos turísticos inteligentes
+
           .col-lg-8
-            .titulo-sexto.color-primario
-              h5 Figura 10. 
-              span Diferentes destinos turísticos 
             ImagenInfografica.color-acento-botones.mb-5
               template(v-slot:imagen)
                 figure
-                  img(src='@/assets/curso/temas/t3/fig10.png', alt='')
+                  img(src='@/assets/curso/temas/t3/fig10.png', alt='La imagen presenta un concepto de “Destino Turístico Inteligente”, donde se destacan características esenciales como unidad territorial, oferta estructurada, marca, atractiva, especialización conjunta y la capacidad de aprendizaje del destino. Se representan distintos elementos iconicos del turismo global, como la Estatua de la Libertad y templos asiáticos, simbolizando la diversidad cultural y geográfica. La imagen subraya la importancia de que un destino turístico esté bien organizado, sea atractivo, tenga una identidad de marca clara y fomente el aprendizaje y la innovación conjunta.')
               .tarjeta.bg6.p-3(x="10%" y="13%" numero="+")
                 h4 Que aprende
                 ul.lista-ul--color.fa-ul.color-secundario.mb-0
@@ -190,7 +193,7 @@
         img(src='@/assets/curso/temas/t3/img6.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p Muchos lugares, regiones o municipios que reciben turistas atraviesan un ciclo de desarrollo similar al de las especies vivas, pasando por distintas etapas desde su nacimiento hasta su consolidación; durante este proceso, los destinos turísticos experimentan modificaciones y transformaciones, de manera comparable a lo que sucede con la moda, los artistas y otros productos en general. 
-          span.text-dest2.fw-bold Factores como la masificación, el deterioro ambiental, la monotonía en la oferta o la baja calidad de los servicios pueden hacer que un destino pierda popularidad. 
+          span.fw-bold Factores como la masificación, el deterioro ambiental, la monotonía en la oferta o la baja calidad de los servicios pueden hacer que un destino pierda popularidad. 
           | Por ello, los gestores turísticos deben monitorear continuamente en qué fase se encuentra el destino y tomar decisiones rápidas y efectivas para revitalizar, reposicionar y relanzar el destino, utilizando estrategias enfocadas en la innovación, la microsegmentación, la diversificación y el mejoramiento continuo para evitar su declive y eventual desaparición.
 
     .cajon.color-primario.bg2.p-4.mb-5(data-aos="fade-down")
@@ -199,10 +202,10 @@
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-6
         .titulo-sexto.color-primario
-          h5 Figura 11. 
+          h5 Figura 10. 
           span Ciclo de vida de un destino
         figure
-          img.mb-2(src='@/assets/curso/temas/t3/fig11.svg', alt='')
+          img.mb-2(src='@/assets/curso/temas/t3/fig11.svg', alt=' La imagen presenta el ciclo de vida de un destino turístico, representado a través de una gráfica que sigue varias etapas: exploración, implicación, desarrollo, estancamiento y, finalmente, tres posibles trayectorias: rejuvenecimiento, estabilización o declive. El eje vertical refleja el crecimiento del destino, mientras que el eje horizontal indica el paso del tiempo. A la derecha, aparece una turista explorando un paisaje natural, lo que sugiere la relación entre la evolución del destino y la experiencia de los visitantes en diferentes fases de su desarrollo.')
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t3/img7.png', alt='')
 
@@ -223,11 +226,11 @@
 
           .col-12
             .titulo-sexto.color-primario
-              h5 Figura 12. 
+              h5 Figura 11. 
               span Agentes del destino turístico          
           .col-lg-7  
             figure
-              img(src='@/assets/curso/temas/t3/fig12.png', alt='')
+              img(src='@/assets/curso/temas/t3/fig12.png', alt='La imagen ilustra a los principales agentes del destino turístico, representados por la administración pública, el sector privado y la población local. En el centro del esquema, se destaca la interacción entre estos tres actores, simbolizando su cooperación y colaboración en el desarrollo y gestión de un destino turístico. La imagen sugiere que la sinergia entre el gobierno, las empresas privadas y la comunidad local es fundamental para el éxito y sostenibilidad de cualquier destino turístico.')
 
 
 
