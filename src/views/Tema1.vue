@@ -41,8 +41,8 @@
                 .col-md-7.mb-4.mb-md-0
                   h4 Siglo XVII - XVIII
                   p Surge el 
-                    span.text-dest.fw-bold Grand Tour 
-                    | en Europa, principalmente entre la aristocracia británica, que viajaba por el continente para completar su educación y visitar sitios históricos y culturales. Este periodo establece las bases del turismo cultural.
+                    span.fw-bold #[em Grand Tour ] 
+                    |  en Europa, principalmente entre la aristocracia británica, que viajaba por el continente para completar su educación y visitar sitios históricos y culturales. Este periodo establece las bases del turismo cultural.
                 .col-md-3
                   img(src='@/assets/curso/temas/t1/linea3.png', alt='')
               .row.justify-content-center(titulo="1841")
@@ -54,7 +54,7 @@
               .row.justify-content-center(titulo="1867")
                 .col-md-7.mb-4.mb-md-0
                   h4 1867
-                  p Se funda la primera compañía de cruceros, la “Peninsular and Oriental Steam Navigation Company” (P&O), lo que marca el inicio del turismo marítimo.
+                  p Se funda la primera compañía de cruceros, la #[em “Peninsular and Oriental Steam Navigation Company” (P&O)], lo que marca el inicio del turismo marítimo.
                 .col-md-3
                   img(src='@/assets/curso/temas/t1/linea5.png', alt='')
               .row.justify-content-center(titulo="1903")
@@ -231,10 +231,10 @@
       .bg5.py-4.py-md-5(titulo="Dimensión política")
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
-            img(src='@/assets/curso/temas/t1/tab4.png', alt='')
+            img(src='@/assets/curso/temas/t1/tab4-2.png', alt='')
           .col-md-7
             h4 Dimensión política
-            p ISe refiere a las leyes, normas y políticas que regulan la actividad turística, asegurando que contribuya al desarrollo sostenible de los territorios. 
+            p Se refiere a las leyes, normas y políticas que regulan la actividad turística, asegurando que contribuya al desarrollo sostenible de los territorios. 
       .bg5.py-4.py-md-5(titulo="Dimensión tecnológica")
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0

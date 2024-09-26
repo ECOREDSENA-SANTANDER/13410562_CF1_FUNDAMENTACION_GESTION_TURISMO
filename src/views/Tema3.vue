@@ -165,6 +165,8 @@
               .tarjeta.bg4.p-4
                 p.text-center Es el resultado del desplazamiento de personas hacia un espacio turístico específico.
               .tarjeta.bg4.p-4
+                p.text-center Se configura como un espacio territorial homogéneo, con características geográficas e históricas similares. 
+              .tarjeta.bg4.p-4
                 p.text-center Ofrece una propuesta estructurada de atractivos, basada en un sistema integrado de recursos, actividades, servicios y empresas, todos orientados a la satisfacción del turista.
               .tarjeta.bg4.p-4
                 p.text-center Cuenta con una marca integradora, reflejada en una imagen atractiva que engloba toda su oferta, facilitando su identificación  en distintos mercados.

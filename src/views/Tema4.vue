@@ -7,14 +7,12 @@
         span 4
       h1 Política y normatividad turística
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t4/img1.png')})`}")
       .bloque-texto-g__texto.p-4
         p.mb-0 El enfoque principal reside en promover el turismo receptivo sobre el emisor, dado que este impulsa de manera más directa el crecimiento de las empresas turísticas nacionales y optimiza la utilización de los recursos regionales. La regulación y el desarrollo de políticas en el sector turístico establecen un vínculo entre la gestión pública y la implementación de medidas con repercusiones económicas, tales como la imposición de gravámenes o la asignación de subsidios, orientadas a estimular el crecimiento sostenible y la competitividad del sector.
-    
-    p El Instituto Interamericano de Turismo define el destino turístico como un área donde el viajero espera encontrar actividades, atractivos y servicios que le brinden una experiencia inolvidable. Eduardo Pantano (2014) añade que un destino debe tener atractivos turísticos, capacidad para ofrecer servicios y una infraestructura adecuada, además de una gestión estatal para organizar la oferta y preservar los recursos. El destino incluye productos, servicios y atractivos en un radio de influencia de un día, y su competitividad depende de su imagen y percepción en el mercado.
-
+  
 
     Separador
     #t_4_1.titulo-segundo.color-primario(data-aos='fade-right')
@@ -24,11 +22,11 @@
       .col-lg-5.col-md-8.col-11.mb-3.mb-lg-0
         img(src='@/assets/curso/temas/t4/img2.png', alt='')
       .col-lg-7 
-        p.mb-4 La política se define como el
+        p.mb-4 La política se define como el 
           span.fw-bold conjunto de orientaciones y directrices que el Gobierno o el Estado establece para regular diversas actividades en un país 
           |  En el ámbito turístico, estas decisiones, cuando se integran de manera coherente dentro de una política de desarrollo, orientan la gestión del sector al normar las acciones necesarias, las cuales se concretan en planes y programas de desarrollo sectorial (Valencia, 2014). 
-        p El conjunto de normas que conforman la política turística tiene como objetivo principal
-          span.fw-bold stablecer las directrices necesarias para promover y fomentar el desarrollo de la actividad turística.
+        p El conjunto de normas que conforman la política turística tiene como objetivo principal 
+          span.fw-bold establecer las directrices necesarias para promover y fomentar el desarrollo de la actividad turística.
           |  Como parte integral de la política económica, su implementación implica la adopción de medidas que los gobernantes consideran estratégicas para alcanzar metas específicas. Las políticas turísticas ejercen un impacto significativo en la sociedad y deben ser vistas como herramientas clave en la gestión pública, ya que la mayoría de la actividad turística es impulsada por el sector privado (Hernández Molina, 2010)
     
     p.mb-4 La política turística es, en esencia, una micropolítica especializada que la administración pública emplea para establecer directrices relacionadas con la planificación, promoción, ordenamiento y regulación de la actividad turística. Se integra dentro de las políticas sectoriales de la política económica, considerando que el turismo es un sector clave para el desarrollo económico.
