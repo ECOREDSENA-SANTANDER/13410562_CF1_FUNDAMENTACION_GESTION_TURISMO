@@ -115,16 +115,16 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      /*{
+      {
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
-      },*/
-      /*{
+      },
+      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },*/
+      },
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
@@ -144,16 +144,27 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '1.  Turismo',
+      referencia:
+        'Inostroza, G. (2008). Aportes para un modelo de gestión sostenible del turismo comunitario en la región andina. Gestión turística, (10), 77-90.',
+      tipo: 'Articulo',
+      link: 'http://revistas.uach.cl/index.php/gestur/article/view/3485',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '3. Destino turístico',
+      referencia:
+        'Pearce, D. G. (2016). Modelos de gestión de destinos: Síntesis y evaluación. Estudios y perspectivas en turismo, 25(1), 01-16.',
+      tipo: 'Articulo',
+      link:
+        'https://www.scielo.org.ar/scielo.php?pid=S1851-17322016000100001&script=sci_arttext',
+    },
+    {
+      tema: '3. Destino turístico',
+      referencia:
+        'Muñoz, A. D. A., & Sánchez, S. G. (2015). Destinos turísticos inteligentes. Economía industrial, 395, 61-69.',
+      tipo: 'PDF',
+      link:
+        'https://www.mintur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/395/LOPEZ%20DE%20AVILA%20y%20GARCIA.pdf',
     },
   ],
   glosario: [
@@ -239,8 +250,20 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Muñoz, A. D. A., & Sánchez, S. G. (2015). Destinos turísticos inteligentes. Economía industrial, 395, 61-69. ',
+    },
+    {
+      referencia:
+        'Netto, A. P., & Lohmann, G. (2012). Teoría del turismo. México. Trillas.',
+    },
+    {
+      referencia:
+        'Moscoso, F. V. (2013). El papel de los actores territoriales en la definición y configuración de modelos de desarrollo turístico. In Congreso de Turismo:" El Turismo y los Nuevos Paradigmas Educativos"(Ushuahia, Argentina, 2013).',
+    },
+    {
+      referencia:
+        'Quesada, F. B. C., Hervé, A., & Sánchez, M. D. S. A. (2009). El sistema turístico en clave de marketing relacional: el factor relacional. Anuario jurídico y económico escurialense, (42), 419-422.',
     },
   ],
   creditos: [
@@ -264,7 +287,7 @@ export default {
       autores: [
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -279,7 +302,7 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <em>fullstack</em>',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
