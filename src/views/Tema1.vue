@@ -19,7 +19,7 @@
       .col-auto.ps-0.texto
         h3.mb-0 Contexto y panorama del turismo
 
-    .row.bgc-1.align-items-center.p-4.py-5.mb-5(data-aos="fade-down")
+    .row.bgc-1.align-items-center.p-4.py-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center
 
@@ -88,7 +88,7 @@
                 .col-md-3
                   img(src='@/assets/curso/temas/t1/linea10.png', alt='')
 
-    .row.justify-content-center(data-aos="fade")
+    //.row.justify-content-center(data-aos="fade")
       .col-lg-6
         TarjetaAudio.color-primario(
           texto=""
