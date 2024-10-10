@@ -153,8 +153,6 @@
       .col-auto.ps-0.texto
         h3.mb-0 Elementos del sistema turístico
 
-    p.mb-4 La teoría del sistema turístico de Neil Leiper, desarrollada en 1979, es un enfoque integral que conceptualiza el turismo como un sistema compuesto por varios elementos interrelacionados que operan en un entorno dinámico, en donde, el turismo puede entenderse a través de tres componentes principales:
-
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-4.col-md-6.mb-3.mb-lg-0
         .tarjeta-avatar

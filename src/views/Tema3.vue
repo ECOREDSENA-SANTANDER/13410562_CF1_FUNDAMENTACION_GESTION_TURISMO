@@ -62,7 +62,7 @@
                     | Trabaja en equipo.
                   li
                     i.fas.fa-compass
-                    span.fw-bold.text-dest2 Que innova.
+                    span Que innova.
               .tarjeta.bg6.p-3(x="27%" y="42.5%" numero="+")
                 h4 Unidad territorial
                 ul.lista-ul--color.fa-ul.color-secundario.mb-0
@@ -83,7 +83,7 @@
                     | C/ Capacidad administrativa para ejecutarlos.
                   li
                     i.fas.fa-compass
-                    span.fw-bold.text-dest2 Unidad base de la gestión.
+                    span Unidad base de la gestión.
               .tarjeta.bg6.p-3(x="18%" y="80%" numero="+")
                 h4 Especialización conjunta
                 ul.lista-ul--color.fa-ul.color-secundario.mb-0
@@ -98,7 +98,7 @@
                     | Articulado s/una visión estratégica.
                   li
                     i.fas.fa-compass
-                    span.fw-bold.text-dest2 Más agresiva y enfocada.
+                    span Más agresiva y enfocada.
               .tarjeta.bg6.p-3(x="53%" y="75%" numero="+")
                 h4 Con una marca
                 ul.lista-ul--color.fa-ul.color-secundario.mb-0
@@ -113,7 +113,7 @@
                     | + Facilite su identificación.
                   li
                     i.fas.fa-compass
-                    span.fw-bold.text-dest2 Genere afectos y sentimientos.
+                    span Genere afectos y sentimientos.
               .tarjeta.bg6.p-3(x="68.5%" y="53%" numero="+")
                 h4 Con oferta estructurada
                 ul.lista-ul--color.fa-ul.color-secundario.mb-0
@@ -125,7 +125,7 @@
                     | En función de los beneficios buscados por los turistas.
                   li
                     i.fas.fa-compass
-                    span.fw-bold.text-dest2 =Oferta competitiva.
+                    span =Oferta competitiva.
               .tarjeta.bg6.p-3(x="90%" y="25%" numero="+")
                 h4 Atractiva
                 ul.lista-ul--color.fa-ul.color-secundario.mb-0
@@ -140,7 +140,7 @@
                     | Para tener una experiencia turística.
                   li
                     i.fas.fa-compass
-                    span.fw-bold.text-dest2 DT= Espacio geográfico C/experiencias turísticas.
+                    span DT= Espacio geográfico C/experiencias turísticas.
 
     .bloque-texto-c.color-secundario.bg7.p-4
       i.fas.fa-quote-right.mb-3
