@@ -24,7 +24,7 @@
       .col-lg-7 
         p.mb-4 La política se define como el 
           span.fw-bold conjunto de orientaciones y directrices que el Gobierno o el Estado establece para regular diversas actividades en un país 
-          |  En el ámbito turístico, estas decisiones, cuando se integran de manera coherente dentro de una política de desarrollo, orientan la gestión del sector al normar las acciones necesarias, las cuales se concretan en planes y programas de desarrollo sectorial (Valencia, 2014). 
+          |  En el ámbito turístico, estas decisiones, cuando se integran de manera coherente dentro de una política de desarrollo, guían la gestión del sector al establecer las normativas necesarias, que se materializan en planes y programas de desarrollo específicos para dicho sector (Valencia, 2014).
         p El conjunto de normas que conforman la política turística tiene como objetivo principal 
           span.fw-bold establecer las directrices necesarias para promover y fomentar el desarrollo de la actividad turística.
           |  Como parte integral de la política económica, su implementación implica la adopción de medidas que los gobernantes consideran estratégicas para alcanzar metas específicas. Las políticas turísticas ejercen un impacto significativo en la sociedad y deben ser vistas como herramientas clave en la gestión pública, ya que la mayoría de la actividad turística es impulsada por el sector privado (Hernández Molina, 2010)
@@ -64,7 +64,7 @@
               .tarjeta.bg4.p-4
                 p.text-center #[b Política de Seguridad Turística:] esta está reglamentada por el Decreto 945 de 2014, que regula el Consejo Nacional de Seguridad Turística y los Comités Departamentales de Seguridad Turística. 
               .tarjeta.bg4.p-4
-                p.text-center #[b Política de Competitividad:] el desafío para alcanzar un turismo de clase mundial: Se encuentra enmarcada en la Ley 1558 de 2012, que busca fortalecer la competitividad del turismo mediante normas de calidad y sostenibilidad
+                p.text-center #[b Política de Competitividad:] el desafío para alcanzar un turismo de clase mundial: Se encuentra enmarcada en la Ley 1558 de 2012, que busca fortalecer la competitividad del turismo mediante normas de calidad y sostenibilidad.
               .tarjeta.bg4.p-4
                 p.text-center #[b Plan Indicativo de Formación en Turismo:] reglamentado a través de la Ley 1558 de 2012, que incluye formación especializada para mejorar las capacidades del personal en el sector.
               .tarjeta.bg4.p-4

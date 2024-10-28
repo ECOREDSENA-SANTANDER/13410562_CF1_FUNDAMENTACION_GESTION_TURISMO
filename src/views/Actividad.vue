@@ -111,6 +111,66 @@ export default {
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
+        {
+          id: 7,
+          texto:
+            'El turismo sostenible busca satisfacer las necesidades actuales de los turistas sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas.',
+          imagen: require('@/assets/actividad/3.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene claros los conceptos del sistema turístico y su normatividad.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 8,
+          texto:
+            'El ecoturismo se enfoca en la conservación del medio ambiente, involucrando a las comunidades locales en la gestión de los recursos.',
+          imagen: require('@/assets/actividad/4.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene claros los conceptos del sistema turístico y su normatividad.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 9,
+          texto:
+            'La infraestructura turística no tiene ningún impacto en el desarrollo económico local.',
+          imagen: require('@/assets/actividad/2.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene claros los conceptos del sistema turístico y su normatividad.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 10,
+          texto:
+            'El turismo responsable es una modalidad de turismo en la que se minimizan los impactos negativos y se maximizan los beneficios para el destino y su población.',
+          imagen: require('@/assets/actividad/1.png'),
+          barajarRespuestas: false,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene claros los conceptos del sistema turístico y su normatividad.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
       ],
       mensaje_final_aprobado:
         '¡Excelente! Lo felicito, ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',

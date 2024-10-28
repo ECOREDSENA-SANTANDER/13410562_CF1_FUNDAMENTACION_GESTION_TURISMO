@@ -147,14 +147,14 @@ export default {
       tema: '1.  Turismo',
       referencia:
         'Inostroza, G. (2008). Aportes para un modelo de gestión sostenible del turismo comunitario en la región andina. Gestión turística, (10), 77-90.',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       link: 'http://revistas.uach.cl/index.php/gestur/article/view/3485',
     },
     {
       tema: '3. Destino turístico',
       referencia:
         'Pearce, D. G. (2016). Modelos de gestión de destinos: Síntesis y evaluación. Estudios y perspectivas en turismo, 25(1), 01-16.',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       link:
         'https://www.scielo.org.ar/scielo.php?pid=S1851-17322016000100001&script=sci_arttext',
     },
@@ -169,7 +169,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Ciclo del Producto ',
+      termino: 'Ciclo del Producto',
       significado:
         'Etapas de evolución de un producto, desde su lanzamiento hasta el cese de su comercialización.',
     },
