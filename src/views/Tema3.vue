@@ -68,13 +68,13 @@
                 ul.lista-ul--color.fa-ul.color-secundario.mb-0
                   li
                     i.fas.fa-compass
-                    | Espacio geografico.
+                    | Espacio geográfico.
                   li
                     i.fas.fa-compass
                     | + / - homogéneo.
                   li
                     i.fas.fa-compass
-                    | Receptáculo de política turistica.
+                    | Receptáculo de política turística.
                   li
                     i.fas.fa-compass
                     | C/ Objetivos de planificación.
